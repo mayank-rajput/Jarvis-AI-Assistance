@@ -1,0 +1,10 @@
+for friday.py 
+pip install --upgrade pip
+pip install pyttsx3
+pip install speechRecognition
+pip install pipwin
+pipwin install pyaudio
+pip install wikipedia 
+*************************************
+for led_control.py
+pip install pyserial
